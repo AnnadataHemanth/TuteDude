@@ -12,6 +12,6 @@ Task 1:
 Python Program which takes two inputs from the user and gives Addition, Subtraction, Multiplication and Division Operations for those two numbers and prints it for the user.
 
 Task 2: 
-Python Program which takes First name and Last name as inputs from the user and concatenates the first and last name into one full name and prints a personalized Greeting Messade.
+Python Program which takes First name and Last name as inputs from the user and concatenates the first and last name into one full name and prints a personalized Greeting Message.
 
 To run the codes use - (python Filename.py)
