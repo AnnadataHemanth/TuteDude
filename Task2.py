@@ -1,4 +1,4 @@
-First=input("Enter your first name: ")
-Last=input("Enter your last name: ")
-Fullname= First + " " + Last
-print("Hello, " + Fullname + "! Welcome to the Python Program.")
+sum = 0
+for i in range(1, 51):
+    sum += i
+print("The sum of numbers from 1 to 50 is:", sum)
