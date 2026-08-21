@@ -3,6 +3,7 @@ conn=psycopg2.connect(dbname="postgres", user="postgres", password="millie578", 
 print("Connection established successfully")
 cursor=conn.cursor()
 
+
 #CREATING A TABLE
 def create_table():
     cursor.execute('''CREATE TABLE IF NOT EXISTS users (name text, age integer, id integer);''')
