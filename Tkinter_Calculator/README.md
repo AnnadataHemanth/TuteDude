@@ -1,4 +1,4 @@
-**Tkinter Calculator**
+# Tkinter Calculator
 
 This is a simple calculator project created using Python and Tkinter as part of my course at Tutedude. This project provides a basic graphical interface for performing arithmetic operations such as addition, subtraction, multiplication, and division.
 
